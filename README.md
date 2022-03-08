@@ -1,3 +1,5 @@
+<div align="center">
+  
 ### Olá! Me chamo Herbert Junior (Hello! My name is Herbert Junior) 👋
 
 - 💻 Atualmente estou estudando desenvolvimento Front-end (I'm currently studying Front-end development)
@@ -19,10 +21,12 @@
  
 
   ##
-- Onde me encontar na internet (Where to find me on the internet):
+  
+### Onde me encontrar (Where to find me):
 
-  <div align="center">
+<div align="center">
    <a href="https://instagram.com/herbjrr" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	 <a href = "mailto:herbjrr@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/herbertjrr" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 </div>
