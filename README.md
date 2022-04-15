@@ -13,7 +13,7 @@
 ##
 
 <p align="center">
-I currently have experience with the following technologies
+I have experience with the following technologies
 </p>
 
 <div style="display: inline_block" align="center">
