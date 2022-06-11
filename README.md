@@ -1,3 +1,4 @@
+
 # Hello! My name is *Herbert Junior* 👋
 
  🇧🇷 I'm from Brazil.
@@ -10,25 +11,30 @@
  </br>
  </br>
 
-##
+___
 
-<p align="center">
-I have experience with the following technologies
-</p>
-
+## I have already worked with the following technologies:
+ 
 <div style="display: inline_block" align="center">
   <img align="center" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="70"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+</div></br>
+
+<div style="display: inline_block" align="center">
+  <img align="center" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
+  <img align="center" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  <img align="center" height="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </div></br>
  
 <div align="center">
   <a href="https://github.com/herbjrr">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=herbjrr&show_icons=true&theme=dark&include_all_commits=true&count_private=true">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbjrr&layout=compact&langs_count=7&theme=dark">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbjrr&layout=compact&langs_count=7&theme=dark">
 </div></br>
 
-##
+___
   
 <p align="center">You can find me on:</p>
 
